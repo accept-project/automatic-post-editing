@@ -1,0 +1,10 @@
+Verfahren zur Aufzeichnung virtueller Softwareschichten 
+bei der Erstellung virtueller Softwareschichten kann eines der beiden Aufzeichnungsverfahren verwendet werden : 
+Einzelprogrammaufzeichnung ( empfohlen ) 
+virtuelle Softwareschicht 
+Aufzeichnungsverfahren 
+Einzelprogrammaufzeichnung 
+Informationen 
+wenn Sie dieses Verfahren nutzen , werden nur die Änderungen aufgezeichnet , die während der Installation einer angegebenen Anwendung vorgenommen werden . 
+alle anderen Aktivitäten auf dem Computer werden ignoriert . 
+mit diesem Verfahren werden alle Dateien , Registrierungseinstellungen und Prozesse einer Anwendung aufgezeichnet . 

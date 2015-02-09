@@ -1,0 +1,144 @@
+methods ||| Verfahren ||| 0-0
+methods for ||| Verfahren zur ||| 0-0 1-1
+methods for Capturing ||| Verfahren zur Aufzeichnung ||| 0-0 1-1 2-2
+methods for Capturing Virtual ||| Verfahren zur Aufzeichnung virtueller ||| 0-0 1-1 2-2 3-3
+for ||| zur ||| 0-0
+for Capturing ||| zur Aufzeichnung ||| 0-0 1-1
+for Capturing Virtual ||| zur Aufzeichnung virtueller ||| 0-0 1-1 2-2
+for Capturing Virtual Software Layers ||| zur Aufzeichnung virtueller Softwareschichten ||| 0-0 1-1 2-2 3-3 4-3
+Capturing ||| Aufzeichnung ||| 0-0
+Capturing Virtual ||| Aufzeichnung virtueller ||| 0-0 1-1
+Capturing Virtual Software Layers ||| Aufzeichnung virtueller Softwareschichten ||| 0-0 1-1 2-2 3-2
+Virtual ||| virtueller ||| 0-0
+Virtual Software Layers ||| virtueller Softwareschichten ||| 0-0 1-1 2-1
+Software Layers ||| Softwareschichten ||| 0-0 1-0
+when ||| bei ||| 0-0
+when ||| bei der ||| 0-0
+when you create ||| bei der Erstellung ||| 0-0 1-2 2-2
+when you create a ||| bei der Erstellung ||| 0-0 1-2 2-2
+you create ||| Erstellung ||| 0-0 1-0
+you create ||| der Erstellung ||| 0-1 1-1
+you create a ||| Erstellung ||| 0-0 1-0
+you create a ||| der Erstellung ||| 0-1 1-1
+virtual software layer , you ||| virtueller Softwareschichten ||| 0-0 0-1 1-1 2-1 4-1
+can ||| kann ||| 0-0
+either ||| beiden ||| 0-0
+either of the ||| der beiden ||| 1-0 2-0 0-1
+of the ||| der ||| 0-0 1-0
+capture ||| werden ||| 0-0
+methods ||| Aufzeichnungsverfahren ||| 0-0
+single program capture ||| Einzelprogrammaufzeichnung ||| 0-0 1-0 2-0
+single program capture ( ||| Einzelprogrammaufzeichnung ( ||| 0-0 1-0 2-0 3-1
+single program capture ( Recommended ||| Einzelprogrammaufzeichnung ( empfohlen ||| 0-0 1-0 2-0 3-1 4-2
+( ||| ( ||| 0-0
+( Recommended ||| ( empfohlen ||| 0-0 1-1
+( Recommended ) ||| ( empfohlen ) ||| 0-0 1-1 2-2
+Recommended ||| empfohlen ||| 0-0
+Recommended ) ||| empfohlen ) ||| 0-0 1-1
+) ||| ) ||| 0-0
+virtual ||| virtuelle ||| 0-0
+virtual software layer ||| virtuelle Softwareschicht ||| 0-0 1-1 2-1
+software layer ||| Softwareschicht ||| 0-0 1-0
+capturing methods ||| Aufzeichnungsverfahren ||| 0-0 1-0
+single program capture ||| Einzelprogrammaufzeichnung ||| 0-0 1-0 2-0
+about ||| Informationen ||| 0-0
+when ||| wenn ||| 0-0
+when you ||| wenn Sie ||| 0-0 1-1
+when you use this method ||| wenn Sie dieses Verfahren nutzen ||| 0-0 1-1 3-2 4-3 2-4
+you ||| Sie ||| 0-0
+you use this method ||| Sie dieses Verfahren nutzen ||| 0-0 2-1 3-2 1-3
+you use this method , ||| Sie dieses Verfahren nutzen , ||| 0-0 2-1 3-2 1-3 4-4
+use ||| nutzen ||| 0-0
+use this method ||| dieses Verfahren nutzen ||| 1-0 2-1 0-2
+use this method , ||| dieses Verfahren nutzen , ||| 1-0 2-1 0-2 3-3
+this ||| dieses ||| 0-0
+this method ||| dieses Verfahren ||| 0-0 1-1
+method ||| Verfahren ||| 0-0
+, ||| , ||| 0-0
+, only changes made ||| , werden nur die Änderungen ||| 0-0 2-1 1-2 2-4 3-4
+only ||| nur ||| 0-0
+only ||| nur die ||| 0-0
+only changes made ||| werden nur die Änderungen ||| 1-0 0-1 1-3 2-3
+during ||| während ||| 0-0
+during the ||| die während ||| 1-0 0-1
+during the ||| , die während ||| 1-1 0-2
+during the installation of ||| die während der Installation ||| 1-0 0-1 3-2 2-3
+during the installation of ||| , die während der Installation ||| 1-1 0-2 3-3 2-4
+during the installation of a ||| die während der Installation einer ||| 1-0 0-1 3-2 2-3 4-4
+the ||| die ||| 0-0
+the ||| , die ||| 0-1
+installation ||| Installation ||| 0-0
+installation of ||| der Installation ||| 1-0 0-1
+installation of a ||| der Installation einer ||| 1-0 0-1 2-2
+installation of a specified ||| der Installation einer angegebenen ||| 1-0 0-1 2-2 3-3
+installation of a specified application ||| der Installation einer angegebenen Anwendung ||| 1-0 0-1 2-2 3-3 4-4
+of ||| der ||| 0-0
+a ||| einer ||| 0-0
+a specified ||| einer angegebenen ||| 0-0 1-1
+a specified application ||| einer angegebenen Anwendung ||| 0-0 1-1 2-2
+a specified application ||| einer angegebenen Anwendung vorgenommen ||| 0-0 1-1 2-2
+a specified application are ||| einer angegebenen Anwendung vorgenommen werden ||| 0-0 1-1 2-2 3-4
+specified ||| angegebenen ||| 0-0
+specified application ||| angegebenen Anwendung ||| 0-0 1-1
+specified application ||| angegebenen Anwendung vorgenommen ||| 0-0 1-1
+specified application are ||| angegebenen Anwendung vorgenommen werden ||| 0-0 1-1 2-3
+application ||| Anwendung ||| 0-0
+application ||| Anwendung vorgenommen ||| 0-0
+application are ||| Anwendung vorgenommen werden ||| 0-0 1-2
+are ||| werden ||| 0-0
+are ||| vorgenommen werden ||| 0-1
+captured ||| aufgezeichnet ||| 0-0
+captured ||| aufgezeichnet , ||| 0-0
+. ||| . ||| 0-0
+any ||| alle ||| 0-0
+any other ||| alle anderen ||| 0-0 1-1
+any other activity ||| alle anderen Aktivitäten ||| 0-0 1-1 2-2
+any other activity on ||| alle anderen Aktivitäten auf ||| 0-0 1-1 2-2 3-3
+other ||| anderen ||| 0-0
+other activity ||| anderen Aktivitäten ||| 0-0 1-1
+other activity on ||| anderen Aktivitäten auf ||| 0-0 1-1 2-2
+activity ||| Aktivitäten ||| 0-0
+activity on ||| Aktivitäten auf ||| 0-0 1-1
+activity on the computer is ||| Aktivitäten auf dem Computer ||| 0-0 1-1 2-2 4-2 3-3
+on ||| auf ||| 0-0
+on the computer is ||| auf dem Computer ||| 0-0 1-1 3-1 2-2
+on the computer is ignored ||| auf dem Computer werden ignoriert ||| 0-0 1-1 3-1 2-2 4-3 4-4
+the computer is ||| dem Computer ||| 0-0 2-0 1-1
+the computer is ignored ||| dem Computer werden ignoriert ||| 0-0 2-0 1-1 3-2 3-3
+the computer is ignored . ||| dem Computer werden ignoriert . ||| 0-0 2-0 1-1 3-2 3-3 4-4
+computer ||| Computer ||| 0-0
+ignored ||| werden ignoriert ||| 0-0 0-1
+ignored . ||| werden ignoriert . ||| 0-0 0-1 1-2
+. ||| . ||| 0-0
+this ||| diesem ||| 0-0
+this ||| mit diesem ||| 0-1
+this method ||| diesem Verfahren ||| 0-0 1-1
+this method ||| diesem Verfahren werden ||| 0-0 1-1
+this method ||| mit diesem Verfahren ||| 0-1 1-2
+this method ||| mit diesem Verfahren werden ||| 0-1 1-2
+method ||| Verfahren ||| 0-0
+method ||| Verfahren werden ||| 0-0
+captures ||| aufgezeichnet ||| 0-0
+all ||| alle ||| 0-0
+all ||| werden alle ||| 0-1
+all the ||| alle ||| 0-0
+all the ||| werden alle ||| 0-1
+all the files ||| alle Dateien ||| 0-0 2-1
+all the files ||| werden alle Dateien ||| 0-1 2-2
+the files ||| Dateien ||| 1-0
+files ||| Dateien ||| 0-0
+files , registry settings , ||| Dateien , Registrierungseinstellungen ||| 0-0 1-1 4-1 2-2 3-2
+, registry settings , ||| , Registrierungseinstellungen ||| 0-0 3-0 1-1 2-1
+, registry settings , and ||| , Registrierungseinstellungen und ||| 0-0 3-0 1-1 2-1 4-2
+registry settings ||| Registrierungseinstellungen ||| 0-0 1-0
+and ||| und ||| 0-0
+and processes ||| und Prozesse ||| 0-0 1-1
+and processes of an ||| und Prozesse einer ||| 0-0 1-1 2-2 3-2
+and processes of an application ||| und Prozesse einer Anwendung ||| 0-0 1-1 2-2 3-2 4-3
+processes ||| Prozesse ||| 0-0
+processes of an ||| Prozesse einer ||| 0-0 1-1 2-1
+processes of an application ||| Prozesse einer Anwendung ||| 0-0 1-1 2-1 3-2
+of an ||| einer ||| 0-0 1-0
+of an application ||| einer Anwendung ||| 0-0 1-0 2-1
+application ||| Anwendung ||| 0-0
+. ||| . ||| 0-0

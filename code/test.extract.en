@@ -1,0 +1,10 @@
+methods for Capturing Virtual Software Layers 
+when you create a virtual software layer , you can use either of the following capture methods : 
+single program capture ( Recommended ) 
+virtual software layer 
+capturing methods 
+single program capture 
+about 
+when you use this method , only changes made during the installation of a specified application are captured . 
+any other activity on the computer is ignored . 
+this method captures all the files , registry settings , and processes of an application . 

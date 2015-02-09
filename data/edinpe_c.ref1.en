@@ -1,0 +1,1556 @@
+Re : How do you connect to the backup centre automatically .
+Hi ,
+I see that the option was there on the first versions of NIS / N360 2013 , but since the last update it &apos;s gone .
+I &apos;ll find out and get back to you .
+Thank you and good day ,
+Automatic verification of removable device .
+Here is what brought me here , after inserting a USB key , a virus crashed my PC .
+An idea is that all removable devices are really checked as they are connected .
+Sincerely
+Re : Norton GHOST for WINDOWS 8
+Hi ,
+There is an error on the Symantec site that I have already pointed out .
+@ BGreg92 - I think you have had a refund like you mentioned in your message .
+Please don &apos;t hesitate if you still need help .
+This is also an official Symantec message concerning this subject :
+Norton Ghost and Windows 8
+Re : Sending a ( small ) number of e-mails .
+Hi ,
+Could you give us a little more information about your problem , including :
+- What Norton product do you have and which version .
+- What software do you use for e-mails .
+- What type of blockage have you encountered ( as an example , you can add a screenshot to your reply ) .
+Thank you very much !
+Hi bobrieguyane ,
+Email service providers have filters like this to stop spam .
+Could you check with them and let us know ?
+Thank you and good day ,
+Re : Norton Family : Unable to make parent connection since Windows XP update !
+Hi ,
+We are performing network maintenance on the network that supports the servers and there may be intermittent outages in access to Norton Web sites .
+It will manifest itself as breaks in the online connection .
+We recommend that you retry later .
+Otherwise , the work will be completed by 6pm .
+Re : Firefox 17 available and Re : Re : Firefox and the Norton Toolbar
+Idem 1949
+On firefox 17 , not only the does toolbar no longer serve any purpose but you need to manually fill-in login fields , also the error xml ... still appears .
+In other words , a load of nonsense ...
+Hi , maybe I went a little too quickly ...
+Symantec end point doesn &apos;t work at the office so I shall work at home this evening with NIS 2012 , I &apos;ll keep you updated .
+Re : Slow loading .
+Hi ,
+If you are using Identity Safe ( Backup centre ) , make a backup of your logins .
+1- You will uninstall it with Norton Removal Tool .
+Restart as requested at the end of the uninstall .
+2- Install NIS 2013 , do a manual LiveUpdate , restart and redo a manual LiveUpdate .
+Patches are being done for problems with loading Norton on startup ( different threads seen on the US Forum ) .
+Re : Norton Family : Unable to make parent connections since windows XP update .
+Same with windows7 , whether through NIS or directly on the Norton Family site .
+Still the same error for several days .
+&quot; Sorry , An error has occurred on the server . &quot;
+Since this morning &apos;s updates the bar finally works with Vista .
+On the other hand a huge crash while applying the Windows 8 patch , restart unsuccessful and reset needed .
+Hi , my problem is also &quot; intrusion attempt mass injection website &quot;
+But I don &apos;t know if it was a false positive or not .
+In any case I don &apos;t understand why Norton Safe Web gave me a safe link and then Norton 360 immediately blocked it 3 times in a row ( I only went there once ) .
+Who is right ?
+Norton safe web or norton 360
+Thank you
+Good evening
+Unfortunately it is more complicated for me on my corporate network , I am not an administrator of my PC and the Vista operating system has an additional layer , it is therefore very difficult to know .
+How do you contact the SEP Support ?
+In any case , I &apos;ve had no more hassles for 2 days with NIS2012 with the singnature in question enabled .
+SVE
+Re : XML scan error appears on Firefox .
+The problem started with the latest version of NIS that fixed a bug with Windows XP . ( Norton crash during Liveupdate and others ) ..
+I had the previous version before that crashed on one PC and not on the other , and I used FF15 ; Identity Safe worked without problems ..
+Yes , after a liveupdate , installing a patch , I &apos;ve got the same problem that I mentioned the 02 November ( first message in the list ) .... My conclusion ; there was a problem that got worse with FF17 but the patch is for the original problem !
+( We can nevertheless use the saved logins ) So perhaps there will be a real fix in the coming days ?
+And will we get an extra months subscription , to compensate ?
+Unexpected deactivation of NIS 2013 .
+Hi ,
+For the last 4 days , my NIS 2013 disables itself unexpectedly ( Auto-protect , ... ) , the correction doesn &apos;t happen and the manual reactivation does not work .
+The only solution I have found is to re-install the product ... but I am not going to do that forever because I still have more than 330 days to run on this product !
+What is the solution to deal with this problem once and for all ?
+Re : No access to norton .
+Hi , initially try reinstalling as I said in message above .
+If it &apos;s still the same : Follow the instructions on this page URL &lt; &gt; it should fix your problem , have a good day , Apolyon
+Re : Reinstallation instead of Renewal , cannot get the backup vault to work .
+then …
+Uninstalling all Norton products and disabling Norton 360 preferences , and reinstalling from Norton Management hasn &apos;t changed anything ... I still cannot activate the online storage centre .
+Thank you for your advice .
+Re : Norton 360 version 20.2 Firefox 17 and identity safe
+I actually have Windows 7 , not XP .
+And If you consider that the local Storage was one , to only offer online storage is a regression ... sincerely ,
+Re : Blocking Hotmail with norton internet security 2013
+Hi , In Windows live mail that happens to me from time to time , I &apos;d advise you to uninstall / reinstall Windows Live Mail .
+I don &apos;t think that Norton is the cause of this problem , good evening , Apolyon
+Ghost 2003 .
+Could not copy image made on the hard drive of one PC to the hard drive of another .
+Hi ,
+On Windows XP SP3 .
+Could not copy image carried out on one computer to the of hard drive of another computer .
+I &apos;ve checked the error message is requesting .
+This copy is done on a DVD .
+Greetings .
+JP .
+Clean claro search
+Hi
+I have Norton Anti Virus and I have Claro which works on firefox , IE and chrome I think .
+What should I do to remove it completely ? ?
+Thank you for your help
+NB : Can you use simple vocabulary because I am not great with a PC . thank you in advance .
+Re : Ghost 12 , Recover backup space .
+Hi ,
+You must have removed the backup task , but not the files backed up so far .
+What procedure did you use exactly ?
+Can you send a screenshot ?
+Thank you and good day ,
+Hi benny19,
+A file that isn &apos;t run doesn &apos;t present an risk .
+There are autorun files , but they are in the initialisation sector , which is scanned automatically when the option is enabled .
+In any case , if it reassures you ...
+To explain , whilst everything is activated the virus crashes the system hard drive and annihilates the C : drive boot sectors , Personally , I &apos;m not keen to do as if virus weren &apos;t there , if it goes wrong , no one is going to help me . ( ? )
+Urgent computer vulnerable
+My PC crashed and I did a forced shutdown , when I restarted it was showing that the PC was vulnerable and showed the message &quot; your computer and networks are vulnerable &quot; so I tried a fix but it didn &apos;t work , what should I do ?
+Thanks for your help
+Re : Disconnect an external drive
+I have re-read my reply and I wonder if the following was clear : The uninstall was just to confirm that the problem comes from NIS , it wasn &apos;t a solution in itself .
+I can do other research but as far as troubleshooting is concerned , if we can start by proving that the problem comes from the antivirus we would know if it is worthwhile continuing along this path .
+Thank you
+Configuring incremental backup on Norton Ghost .
+I &apos;m looking for step by step instructions on how to configure automatic incremental backups on Norton 15 .
+Thank you for your help .
+Rogerisle .
+&#91; I have created a independent thread on this section of the forum for Norton Ghost , to be able to follow the community better .
+Thank you .
+Re : Urgent computer vulnerable
+Good evening , have you noted an error message ?
+Otherwise do this :
+Right-click on the shortcut at the bottom right of the screen .
+Click run LiveUpdate .
+Restart the computer .
+Good evening , Apolyon
+Re : Computer powering off after &quot; UC &quot; appearing .
+Hi ,
+Computer Pentium ( R ) D CPU 3.00Ghz 2.00 GB of RAM
+For alerts , most ( about 90 % ) are from &quot; google chrome &quot; the rest are from others including glary utilities .
+Can &apos;t the hard disk be scratched following the power offs ?
+Thank you in advance for your answers
+Sincerely
+Marc
+Re : Norton 360 blocks outlook 2007
+Also , if the problem persists without Norton 360 , could you clarify on which program you get this message ?
+Outlook 2007 and I &apos;ve tried Windows live mail , same result ..
+Does this block all your email ?
+Both sending and receiving are blocked , and the address that we see is the user &apos;s ..
+Thank you ..
+Re : Norton 360 and Windows 8
+Hi Philou10120,
+Did you reinstall N360 to fix the problem or did it fix itself ?
+If you had to reinstall N360 - could you mark my answer as the solution ?
+Thank you ,
+Re : Application of my subscription NIS 2012 to a 2nd computer
+On your desktop , you entered a license key into your Norton product , you should just put that key into Norton on your laptop .
+You can find the key in : Document &gt; Symantec .
+To insert the key : Norton &gt; Support &gt; Enter the product key.Good evening Apolyon .
+Recovering partitioned disk backup .
+My primary hard disk is partitioned into 3 .
+If I change the hard disk , should I partition the new drive before I restore the backup ?
+OK thank you for the answer .
+What would be good is that this issue which deals with an identified problem in resolution , remains on the first page .
++
+Re : Norton Identity Safe and Browser
+Hi ,
+I am having exactly the same problem .
+IE9 and Google Chrome pages freezing on opening and a constantly spinning hard disk .
+After a minute of new access to the page .
+You have to disable Norton Identity Safe .
+Please note that I have had this problem since the lastest version was installed .
+Before I used NIS2012 and no problems .
+Good evening ,
+Apparently , the English version of Norton Mobile Security for IOS was released at the end of November .
+If it hasn &apos;t happened already , the French version should happen soon .
+&lt; URL &gt;
+&lt; URL &gt; /
+Guillaume1024
+Re : A-young-hacker-hacked-17-000-Android-telephones
+One good thing about less open operating systems , not so available and therefore more secure ...
+I am thinking of IOS or Windows phone !
+Re : No access to Norton and reinstallation impossible .
+Hi ,
+I have the same problem as the previous Internet user .
+I am on XP
+Can you me a solution .
+On top of this , I get an error code 8504.104 which is worrying me .
+Thank you for your answers
+Joker78
+Re : Vulnerability problem .
+As recommended , I reinstalled the software and it works properly again .
+Thank you again for the advice .
+Issue resolved !
+Re : Norton ZONE - a new Norton product on beta version
+Good evening , When I clicked on the link , the only thing I could think of was &quot; one more cloud &quot; . I hope that Symantec can manage to distinguish themselves from the rest . Good evening , Apolyon .
+Re : End of program CcSvcHst whilst closing Windows XP .
+Hi ,
+I am running XP , with this latest version of Norton .
+And I am getting loads of problems , the ccSvcHst file blocks lots of programmes , in addition to the fact that every time I switch off the computer I have to click &quot; end now &quot; otherwise it freezes .
+Newguy on the forum ,
+Hi to All ,
+Yesterday I wanted to go on to my account , my password was not recognised .
+Then I used forgotten password and got a new password from Symantec .
+Updating Norton 360 to the latest version , PC power problem .
+So , this morning I wanted to go onto my account and again my password wasn &apos;t recognised .
+Running XP Professional with latest updates ,
+Norton 360 fully updated yesterday .
+Thank you for your help .
+Re : Backup problem with N360 .
+Hi ,
+Why is backup showing me that I have 0 space while I can see there is 25 GB .
+It &apos;s asking me to reactivate my account .
+What should I do ?
+Sincerely
+Jean
+Hi ,
+I have modified the last things you sent through by removing the attached images !
+Misstigry
+Re : Norton internet security
+Good evening perpendiculaire ;
+I am not sure I understand your request .
+Once installed , NIS uninstalls itself without any human intervention ? ? ? ?
+Can you give us more details .
+Thank you .
+Sincerely ,
+Phildariane .
+Hi ,
+I have just posted a message about this feature &quot; registry compression &quot; on the forum .
+It has crashed my computer , and I don &apos;t know how the recover it .
+Bertrand
+Re : Compressing the registry in norton Utilities .
+Hi Dalloway31,
+Could you tell us the configurations of your computer and the version of Norton utilities you are using ?
+Is it the first time you have used NU or were you able to use it before without problems ?
+Thank you ,
+Hi ,
+About Norton Ghost 15 , if you go into tasks &gt; Options &gt; external Drives - can you see your disk ?
+Assign a name to this disk .
+Thank you and good day ,
+I have exactly the same problem and my subscription is still valid for 311 days .
+The Norton icon is red and when I want to do a repair , the self-protection , the sonar protection , and the Antispyware and the mail protection display &quot; un-repaired &quot; . ( ? )
+The AutoFix itself , after the scan , tells me that there is no problem with my NIS 2013 .
+Unable to reactivate the items in &quot; settings &quot;
+Thank you
+Re : Unexpected deactivation of NIS 2013
+Hi
+Following my problem I went onto Norton livechat .
+My correspondent sent me a link to successfully uninstall the product and another link to the reinstall .
+Since then I have had no problems ( touch wood ) .
+Regards
+Mary
+Re : Unable to install NIS
+The version number is 20.2.0.19 .
+I purchased and downloaded NIS from Toomai , with an offer from Groupon .
+To fix it , I downloaded it again from Symantec and since then everything has gone well .
+Thank you for your answers .
+Re : Big problems after changing to NIS 2013 .
+Hi ,
+You had NIS 2005 on W 7 ?
+1- Uninstall it with Norton Removal Tool .
+Save the file and run it .
+After installation , do 2 manual LiveUpdates with a reboot each time .
+If necessary , here &apos;s the download link for NIS 2013 .
+Hi ,
+Still no news about this problem ?
+I buy Symantec products precisely for this feature ...
+The problem &apos;s been around for more than a month and still no fix !
+The problem is still there on a freshly installed Windows 8 Pro + firefox and Norton 360 !
+Re : AntiVirus turned off
+I am currently preparing a document that describes how to make logs to send us .
+For logs that are too heavy for email .
+Do you have access to an online storage service like Dropbox ?
+Thank you ,
+Re : N360 2013 vs XP SP3 = multiple deactivations of Autoprotect / SONAR .
+It is Norton Internet Security 2012 .
+It is all very well to do as you say , but the problem really gets annoying after a while .
+Norton still haven &apos;t done an update to fix this problem even after all the time that it &apos;s been happening to their customers .
+Even if I verify with Autofix , It tells me that there is no problem with my Antivirus .
+Re : NIS stops during a scan .
+Hi ,
+Ultimately no , my issue is not resolved !
+Here is a screen shot of the error .
+I do not know if this is related , but each time the problem occurs , I can &apos;t send or receive emails with Windows Mail .
+Please help me .
+Installing 360 on a second PC and using identity safe .
+I purchased 360 for 3 PCs .
+I have also installed it on my laptop .
+Both are in XP SP3 .
+On the second I imported the configuration of identity safe , but when I open a site the logins don &apos;t work automaticaly .
+Should I use the same profile or create another ?
+Re : NIS 2013 patch ?
+Hi ,
+No idea .
+See an answer here .
+There are so many problems that they need to review the software completely or fix it bit by bit ? ? ? ? ?
+Hi ,
+I see that you have been waiting for an answer for some days .
+I am going to investigate this and I will get back to you as soon as I have some information .
+Please let me know if in the meantime you found a solution .
+Good day ,
+Re : Problems in Safe Web NIS
+Hi hocine2068,
+It is not you who looks stupid , no ... in fact , you &apos;re right .
+I can see this option , but you can &apos;t .
+Thank you , it &apos;s thanks to you that I found out about this problem !
+I was wondering why nobody used this feature ...
+I will see what happens ! ...
+Good day ,
+Re : Problem connecting to backup vault .
+IE 9 or 10 , Google chrome , Firefox , all browsers freeze when we open the backup centre .
+Once the backup centre is closed again , everything works .
+Except that you need to enter IDs and passwords manually ..
+With the risk of repeating myself , I did not have this kind of problem with previous versions of Norton 360 .
+Hi ,
+So the problem is the same in IE 9 .
+I have tried everything , no autofill !
+You need to copy / paste .
+Hi ,
+Yes , I have the auto-fill on first PC .
+On the second I see the logins but .. imls is useless I &apos;d say ! !
+I &apos;ll remove everything and put the 2012 back on then , if I still have it .
+Can I use it on one desktop and one portable anyway , and use my logins and passwords on both .
+Thank you
+Norton Mobile Utilities : Permanent license
+Hi all , here is my question : How can I get the Norton Mobile Utilities licence back so I can install it on my new Android device ?
+Thank you in advance for the tip : - ) Misstigry
+Re : Opening N 360
+Good evening all , good evening Liliana
+Still the red X that fades out about 2 minutes after the pc installation and more and more error messages , I even did a system re-install , I &apos;ve had the red X all day today , so keeping our fingers crossed , for the moment no error messages .
+Re : Ghost 15 - hot Recovery
+Hi Flytox ,
+I see that you have been waiting for a few days .
+I will escalate your question .
+The subject is still open if any forum member has a possible solution .
+Good day ,
+Windows 8 and Norton 360 v6
+Hi ,
+I have bought a new pc , with Windows 8 , and the salesperson suggested the Norton 360 v6 anti-virus .
+What are they exactly , please ?
+Can I install it without any problems , as on the box it doesn &apos;t say it &apos;s compatible with windows 8 ?
+Thanking you for your advice , I wish you good day .
+This is a total nightmare !
+In version 2012 I cannot find the logins that were backed up in 2013 .
+Having looked for hours and hours , I now have to start all over again ! !
+Re : Identity Safe ( 2012 &gt; 2013 ) Local with IE 8 - IE 9
+Hi The _ passenger ,
+Some customers have to copy and paste the information on the login sites .
+Good day ,
+Displaying in the forum .
+Hi ,
+Can you tell me how I can get a normal display in the forum back ?
+The temporary files and cookies have been deleted .
+I have this problem with my netbook ( xp-sp3 ) and not
+With my desktop ( xp-sp3 ) or with my laptop ( 7 ) , that takes 3 minutes to load Norton - ( see other message ) .
+Pending the help for which I thank you , I wish you all a very happy Christmas and New year .
+Thank you , Liliana
+To recover the installation file in my account , I need to download it , no ?
+If that &apos;s the case , if I didn &apos;t have any more installs to download , what could I have done ?
+Indeed , I only have one more install possible in the next three 3 months .
+Thank you in advance .
+Re : Slow loading .
+Hi Phildariane ,
+Thank you for the answer .
+My three computers do not often spend more than 15 days before a defragmentation and the new HP in question has very few programs on it .
+To you and to all the members of the Forum I wish a merry Christmas and a happy New Year .
+Caphina .
+micaro wrote : So if I understood properly , I should take the version that I purchased in September 2011 instead of the one from 2012 and use the Product Key I purchased in September 2012 in the earlier version ?
+Hi ,
+I have marked everything regarding the versions .
+The N ° you indicated is from Norton 2013 .
+Follow this thread to reinstall the 2012 version .
+Using your current key .
+Hi lamant21,
+The problem does not seem widespread - at least chefo and some others seem to have access .
+In your case , it may be faster to contact support to ensure that you make the renewal in time .
+Good day and good new year
+Re : Norton bootable recovery
+Hi joidour ,
+Please .
+If you think the problem has been solved , can I ask you to mark the answers that helped as the solution , so it &apos;s easier to find for other users .
+Good day ,
+Hi Didier687,
+Norton normally flags an error sent by your ISP .
+Do you want to show us a screen shot of the error ?
+Thank you and have a good holiday ,
+Re : Norton internet security : Control Panel blurred .
+Good evening I have the same problem join my version of Norton 2013 , but I have a NVIDIA graphics card , I tried to disable the FXAA for the program but nothing changed , thank you in advance for your reply .
+Re : License usage .
+Hi ,
+In addition to what Apolyon wrote above , you can check with Technical Support ( using live Chat ) if it is possible to change your current license to &quot; Norton 360 Multi-Device &quot; ( with a payment of course ) .
+Re : Re : Re : Re : Re : XML parsing error appears on Firefox
+Firefox or Norton ! Is that the question ? This problem doesn &apos;t exist with the first version of NIS 2013 and Firefox 15 or 16 . The version of NIS 2013 that shipped end October , that corrected the Windows XP problem ( Norton crashing in various situations that LiveUpdate with NIS ) this problem appeared on Firefox 15 and later versions .
+Where does the error come from ?
+Re : Re : Re : Re : Re : XML parsing error appears on Firefox
+I find it unbelievable ! Compensation shouldn &apos;t have to be asked for . Norton customer service should have automatically offered it to it &apos;s customers with this problem . It is not for Firefox to adapt to Norton but Norton which should adapt to a change in Firefox !
+Re : Windows Live Mail error message with Norton360 .
+Thank you very much for your help ;
+In fact the default SMTP is 25 but for a Gmail account it needs to be changed to 465 . That can help other people .
+The installation of Norton 365 was a pure coincidence .
+Regards
+Miche
+Re : Connection to my Xbox 360
+Hi Johan ,
+Try the procedure described on the Technical Support page :
+Configuring Norton 360 for Xbox
+Good day and happy 2013 !
+Re : NMS : Where do you manage the devices already saved in a Norton Account ?
+Good evening Shadok ,
+&lt; URL &gt;
+I therefore advise you to contact Technical Support directly .
+Good evening and happy holidays .
+Hi Guillaume 1024 , It is exactly the point I made to Svetlana from Norton Support , Norton Mobile Security is fully supported on the Norton Account .
+Good day .
+Misstigry
+Browser protection disabled .
+I installed NIS 2012 on a laptop I have just purchased .
+But for this last computer , the entire installation went well but Norton says that my browser is not protected . All the rest is enabled .
+When I make the change , it doesn &apos;t register .
+What can I do ?
+Re : Unexpected deactivation of Norton Anti Virus 2013 ( 30 / 12 / 2012 )
+Thank you for your answers ,
+But I don &apos;t understand : Why reinstall the 2012 version when I &apos;ve got the key to the 2013 version and the key to the 2012 version has expired . I &apos;m a year past the expiry date of the 2012 version , and the update that I was offered was the 2013 version ... we &apos;re chasing our tail here , no ?
+Sincerely ;
+From 2006 onwards , a valid key is valid for all versions of the same product .
+For 2013 versions , patches are expected for sometime in January , well ... we hope .
+The problems are known , particularly in XP .
+Make your own choice .
+@ lunemanon
+Hi ,
+The minimum would have been say which system .
+Thank you .
+If your PC is running XP , have you tried doing what I said earlier in my first answer ?
+Hi All , I had an Android 4.0.4 tablet , and it came preinstalled with Norton . I want to uninstall it but I don &apos;t know how . I &apos;ve looked on the web but it &apos;s all for Windows and Mac and nothing for Android , so I &apos;d like to ask you to help me .
+Problem creating XML logins .
+Using XP SP3
+NIS 2013 version 20.2.0.19 and plugins updated and active in the latest Firefox version ( 17.0.1 ) .
+On entering a new login that hasn &apos;t been created in the backup centre , it is displaying an error message .
+XML scan error : Undefined entity
+Display location unreadable ( truncated ) .
+The new login is created but you need to close and reopen Firefox to stop it displaying the error line ....
+Re : Autochk program not found
+Following your advice , I fixed it using a Windows 7 DVD , then I cloned my HDD again .
+Now I boot it from my SSD .
+Thank you for your advice
+Re : Problem creating XML logins
+Thank you ( I would have actually have had to navigate all the recent History .... ) but that apparently wouldn &apos;t provide the solution !
+And Symantec , what response for the new year ? ( 2013 I hope ... )
+Re : Web page opening unexpectedly .
+Hi ,
+Firstly I wish you a very good 2013 .
+Attached are the results from adwcleaner in .txt format .
+This appears to have done something and I hope this continues , for the moment there are no pages opening .
+Thank you again and good day
+Block / unblocking network traffic .
+Hi and happy new year .
+On a Windows XP family edition platform .
+I want to set the &quot; block / unblock network traffic &quot;
+So that my children don &apos;t abuse the Internet during the school year ..
+What is the module which manages this function in NIS 2012 .
+How can I set this please ?
+Thank you
+Live update : Installation failed .
+For several days , liveupdate has been ending with an error message :
+&quot; NIS resources
+Status : The installation has failed
+Critical update recommended
+The link that follows doesn &apos;t do anything more to clarify the solution !
+What can I do to finally finish update ?
+Hi Didier687,
+Yes , the message comes from your ISP .
+The best thing is to contact them .
+Good 2013 !
+Re : Norton toolbar change in Firefox / disappearance of backup centre .
+Hi Guillaume1024,
+I will escalate your case .
+For the moment , I have not seen any similar situations that may indicate a bug in the product .
+Can you run LU without errors ?
+I wish you a good year 2013 again .
+Re : Windows 8 disagrees with NIS ... ! !
+Hi and best wishes
+In the forum of the antivirus I &apos;m quoting , firstly , in the message before yours ; your Bit * * * * * * * team will be in contact with Microsoft to solve the problem .
+There would be more of conflict between Windows 8 and the antivirus when there has been a migration from Seven to 8 .
+Re : Norton command problem .
+Re : Installing norton
+Hi ,
+If you can &apos;t do it , contact Support by live Chat .
+Re : Renewing after the 2 month free trial period after buying a Windows 8 PC .
+Hi ,
+If it &apos;s the security settings in the control panel of W 8 that gives this message , read this answer because a lot of people are having problems with W 8 .
+If this is not the problem , please give more details .
+Re : Timeout problem .
+And welcome to the Norton forum !
+If I understand correctly your daughter can go on Facebook via the app installed on the tablet , but the Norton Family settings work if she uses a browser .
+I &apos;ll have to make enquiries about this subject .
+Could you tell us the brand of your tablet and version of Android ?
+Thank you and good day !
+Re : Ghost 2003 .
+Hi jpl69,
+Do the Windows accounts have exactly the same rights on all the computers ?
+Thank you and good day ,
+Re : Live update : Installation failed .
+Hi ,
+You can still keep your thread open .
+Good evening and best wishes !
+Installation of Norton 360 V7 - premier edition 3PC 2013
+Hi
+My subscription to Norton Internet security 2012 ends soon .
+Should I uninstall Norton 2012 from my programs before loading Norton V 7 ?
+Thank you for your answers
+Hi Savane2001,
+Welcome to the Norton Community !
+Have you verified that the bar is active and set to be visible on Firefox , as described in my instructions above ?
+Thank you and good day ,
+Re : No Norton Family activity .
+Hi tyty08,
+If another user has exactly the same problem , please inform us .
+Otherwise , you can follow the recommendations described on the posting indicated above to see other common problems .
+Good day ,
+Re : Norton scan problem windows 8
+Hi Blandine ,
+Unfortunately , I haven &apos;t got an answer for you , because I have been having exactly the same problem as you for the last 3 days .....
+If someone on the forum has the answer to this problem , it would be great if you let us know !
+Unless you found a solution in the meantime , Blandine ?
+Yes , the bar is active and configured to be visible on firefox .
+In fact , the bar is visible and active , but only the buttons &quot; Norton &quot; , &quot; Home ( pictogram ) &quot; , &quot; SafeWeb &quot; and &quot; Share &quot; , like on the screen shot from Guillaume1024 ( 1st message ) .
+However , the buttons &quot; backup centre open / closed &quot; and &quot; connection Wizard &quot; are not visible ( and therefore not active ) .
+Sincerely .
+OK agreed , thank you !
+If I can &apos;t find other solutions , I &apos;ll do the same thing , lets see ! ...
+Still , I would like to understand why it suddenly stopped working , when it has been working well since I changed to W8 !
+A compatibility patch for FF18 is being circulated .
+I &apos;m just waiting for a few technical details before I make an announcement on the forum .
+This discussion is only for the XML error .
+If you have any questions about compatibility with FF18 , please create a separate topic .
+I will send you a private message with additional information .
+Good day ,
+Re : Several question about Norton Online Family basic and premier .
+Hi ,
+I have been told that the feature for restricting access time has not been developed for tablets yet , only for PC and Mac .
+I have requested an improvement to Norton Family to try and adapt this feature to tablets - &gt; mobile devices .
+Good day ,
+Re : HRESULT : 0x800736FD
+Hi Liliana ,
+I have just returned to office and I have just read your last note ; I will try your proposed method in the next 24 hours and get back to you with the results .
+Sincerely ,
+Rhino .
+Re : HRESULT : 0x800736FD
+Hi Rhino ,
+Good news for btsconsult , because he hasn &apos;t tested this solution yet .
+Good day ,
+Re : Connection to my Xbox 360 .
+Hi Johan ,
+No problem , that &apos;s why we &apos;re here !
+Does this the screen shot help you ?
+Tell me if you manage to complete the process .
+I have no Xbox installed so I haven &apos;t got the next screenshot .
+Perhaps another member of the community has one and could send us a screen shot ?
+Re : My log-ins and passwords are not filled in automatically !
+Hi GPaquin , the forum ,
+My issue has been fixed with a patch sent by LiveUpdate ...
+You &apos;re not talking about your browser !
+If it &apos;s Firefox 17 or 18 you will get a patch soon ....
+Later
+Libellule85
+Vulnerability on Foxit reader
+Vulnerability on Foxit reader. it will affect fewer people that Java , but it &apos;s better to know .
+The rest of the article in English .
+Re : Optimizer pro
+Hi ,
+Download AdwCleaner , install it , and click on the removal tab , post the report in your next message .
+Important note : We have been told that the SmartScreen filter on Internet Explorer blocks the AdwCleaner download .
+This is obviously a hoax ...
+Connected TV
+Hi ,
+I purchased a connected TV and I would like to know if my TV is at risk from viruses and if I am protected when I &apos;m on the Internet ?
+It &apos;s true that we are already in mid-January , and still nothing ! ! !
+Removed . Please be polite when participating on the forum .
+Liliana . &#93;
+Norton mobile security for iPhone 4
+Hi
+I downloaded the application mentioned above from the Applestore .
+I open it , I am then told to log on to my Norton Account , which I do , as I have already several .
+Norton products
+Do you know what I should do ?
+Thank you
+Re : Identity Safe - Online password unrecognised on a second computer .
+Hi ,
+Thank you for the information .
+It &apos;s annoying to have to enter a password to connect to Identity Safe each time you start Windows ...
+Michel
+Re : Problem with NIS renewal .
+Hi flo38,
+There is a technical problem on buy , norton at the moment .
+Please contact Technical Support directly to ask for the renewal .
+Good day ,
+Re : Message during disk optimisation with Norton Utilities15
+Hi Ici-Quebec ,
+I will escalate your question and I will come back to you with an answer as soon as possible .
+Good day ,
+Reinstall norton internet security 2012 after crash post .
+Hi ,
+I can install it on 3 computers but what do I do when the three licenses are being used .
+If I reinstall the product it will tell me that I have no more available licenses .
+Thank you
+Re : Installation of Norton 360 Premier and since then I have had problems with certain sites .
+Norton 360 Premier Edition version 20.2.0.19
+Windows 7 Home Premium
+Windows Internet explorer 9
+Re : Problem with connection to the Symantec site .
+Good evening ,
+Good evening Michel _ 1108,
+If all goes well , I think that it shouldn &apos;t be much longer to wait for the patch ( I can &apos;t promise anything though ) .
+Meanwhile , I have found this post from another client that had found a way to copy / paste from word which seemed to resolve a similar problem to yours : Intermittent problem with recognition of Identity Safe password .
+Have a great evening ,
+Re : The Norton toolbar in my Google web browser has disappeared .
+The Norton Identity Protection 2013.2.0.18 module extension just appeared this morning , as if by magic , in the Google Chrome settings interface .
+A Liveupdate of NIS has corrected this .
+Therefore issue resolved .
+If the problem reappears , I will definitely let you know .
+Good day .
+Agreed , I understand a little better .
+Yes I hope that this will soon be available on mobile phones .
+Thank you for your response and your help .
+Good day .
+Hi michelros ,
+I am still waiting for some information about this subject .
+Meanwhile , check if you can use Firefox .
+Good day ,
+Hi MDKST ,
+From Technical Support .
+The forum is a space created for clients to assist each other and normally the answers are provided by volunteers .
+This is not the case for me , but I normally monitor issues which have not been answered for some time .
+Good day ,
+Hi ,
+I have this problem as well ...
+The optimisation goes directly onto the B disk ... which doesn &apos;t exist !
+I assume that you need to change the disk but nothing seems to be configurable around this on N360 .
+Thank you for your help .
+Re : Norton site in Dutch instead of French
+Hi ,
+I will report this case internally .
+In the meantime , if you land on this page , you have a field to change the language at the top :
+Good weekend ,
+Hoax Java update conceals malware .
+Hi ,
+A good reason to always download from on the official site , an example of a hoax update , which conceals a malware .
+Malware , hidden in a hoax Java update , ironically doesn &apos;t exploit the latest vulnerabilities of the Oracle platform , according to Trend Micro .
+Full article
+Re : Re : Re : Re : Connection to my Xbox 360
+In 1 : Provisionally disable any firewalls on your PC to see if it definitely comes from there , and then send me the information requested in your settings .
+50 % off offer : Where &apos;s the voucher ?
+But I can &apos;t find the voucher to print on the , www.norton.fr / cash-back , page .
+How do I find it ?
+Thank you .
+Live update problem
+Hi
+I have a small problem updating live update .
+I haven &apos;t been getting any updates using live update since yesterday either in automatic or manual .
+The only update that I have had is a Norton pulse update .
+I have norton internet security 2012 .
+Hi ,
+This morning I switched on my PC and Norton is showing that it &apos;s vulnerable , I cannot fix it , because I got the message :
+Autoprotect repair , Antispyware , Email protection in red with a note saying fix not complete ;
+What should I do ?
+Thank you
+Re : XML scan error appears on Firefox
+Three months of waiting ... just like everyone else , I am so sick of waiting for this patch to arrive .... how can I be diplomatic .. they &apos;re taking the Mickey , no !
+Moreover , since this error , and even though firefox is properly configured ( I &apos;m not stupid ) my home page fails to open on the one I set , and that &apos;s since the XML error .
+And no I am not off-subject .
+The latest version , Java 7 update 11 , contains 2 new critical faults !
+A week after the release of an emergency security patch Java 7u11 , security experts discover new faults in the development platform .
+Full article
+Minecraft problem with Norton family online .
+Hello , I have Norton family edition and the parental control blocks the Internet access to Minecraft ( a game : more info on minecraft.net minecraft.fr and official site ) so I cannot connect to the servers and do updates . For those who are interested I looked at the firewall and Minecraft is not blocked by it . My brothers have the same problem .
+Thank you for your help if it &apos;s possible to fix this .
+Here is a screenshot :
+Installing Norton Ghost 15
+Hi ,
+Additional information . After the appearance of the window indicating that the mapping ..... it freezes , cancelling requests confirmation but nothing moves . I need to do KEY + Alt + Del to restart the PC with a new session .
+Here is the latest information in my possession .
+Greetings .
+Re : XML scan error appears on Firefox
+Finally ! Thank you anyway for the patch ; but best not repeat it in the future as you could lose some clients ... ( even very old ones ! ) .
+Hi ,
+Did you contact support ?
+Did they give you an explanation about this problem ?
+High risk of web attack exploiting toolkit website 4 ?
+Hi ,
+I would like to have your opinion ,
+For several days when I want to go on commercial street , Norton Internet Security
+Shows me a small window .
+It &apos;s worrying ,
+Thank you in advance for your answers
+Good day
+Sincerely
+Hi ,
+The only operation that Norton does not want to perform and always shows &quot; Disk error &quot; is in optimisation .
+The B drive that it &apos;s trying to optimise doesn &apos;t exist , the 2 disk drives are C and D.
+How is it done on Windows 7 ?
+Thank you for your help
+MHBP
+Show / Hide ( highlight to read )
+Your message is different from the one the other user had .
+I have therefore separated the issues .
+Liliana
+Re : Windows restarts by itself .
+Hi Liliana ,
+And thank you for the information , I did a test with Norton Power Eraser : Nothing .. in fact if there is unknown file but considered reliable , it is an &apos; ADLTest file from Orange , since I have tested the speed of my line .
+Good weekend
+Cobra47
+Installation files
+Hi ,
+I just installed Norton Antivirus , all went well and Norton works .
+Thank you
+Re : Installation files
+Thank you to Guillaume 1024
+Yes , apparently they are just installation file folders ( not Norton folder Program Files ) .
+I imagined that I would be able to get rid of the installation folder .
+Thank you for confirming that : I will mark the problem as resolved and delete this folder .
+Good evening
+KLMtao
+Re : Computer freezing
+I &apos;ll let you carry out the tests mentioned by Liliana ( by clicking the this link ) on a similar subject .
+To verify that the link between the problem and your Norton product .
+Keep us updated .
+Sincerely
+Guillaume1024
+Re : Windows cannot find Norton .
+Good evening ,
+I &apos;ll leave you to update your product using the Update Centre .
+This will no doubt solve your problem .
+Sincerely
+Guillaume1024
+Re : Computer freezing
+Hi , I have disabled the Norton modules as suggested and will let you know how things progress .
+There is however an important detail in my computer freezing problem that differs from the computer freeze referred to in Liliana &apos;s solution .
+It is not so much when I &apos;m on the internet that the freezing occurs but rather when I I use Windows Live Mail to send or receive my emails .
+Re : Windows restarts by itself .
+Hi Cobra47,
+It is better to stay on the same discussion thread for each problem , instead opening several different ones .
+I &apos;ll close this subject as I can see that you have at least two members that are trying to help you on the other .
+Good day ,
+Site blocked by Norton
+Hi ,
+One of my customers had his site taken offline by OVH a few weeks ago due to hacking .
+I managed to get online today , www.saisonsduchangement.com except that from her computer ( which I don &apos;t have access to but I can ask for info if you need it ) , she still cannot get on the site because Norton blocks it .
+What is the procedure to follow ?
+Thank you for your help and good day
+Re : Re : Blue screen because of SYMEFA.SYS in WIN XP
+I installed Nero 11 over a year ago but my SYMEFA problem has only been around for the last month and a half maximum , I think ...
+Re : A big problem with norton antivirus 2013 under windows 8
+The same thing for me .
+Impossible to log in to Norton Internet Security.- marks that it is out of date .
+Unable to start Windows Defender .
+Unable to launch the Windows firewall .
+Unable to uninstall NIS by Windows .
+Unable to uninstall NIS with the Norton tool .
+What should I do ?
+Hi ,
+I did a few screenshots with different options : 1 , 2 , 3 ... which one are you looking for ?
+Thank you and good day ,
+Hi Liliana _ gaspar and thank you for your interest in my problem ,
+It &apos;s 2 that I want to put a the search engine .
+I had it one a day , but I didn &apos;t know how to duplicate it .
+I &apos;ll take a solution .
+Thank you in advance .
+Hi .
+After three days of tests , the problem of my computer freezing has not reappeared .
+So , I believe that the solution you proposed was the right one and that the issue is now resolved .
+Thank you very much for your help and urge you to continue your good work .
+Norton message pop up .
+Hi ,
+I have the latest version of Norton Internet Security ( windows vista )
+For the last few days I have been continually getting a message in the right-hand bottom of the screen which says :
+A surveillance rule was detected for the application process hosted by Windows services .
+This gets on my nerves and stops me being able to work properly on programs like XL .
+Thank you in advance
+Dominica
+Ghost 15 doesn &apos;t find drives .
+Hi ,
+I would like to make an image of my system partition C on my imedia PC ( Windows 7 ) with ghost 15.0 .
+But when I start the operation , Ghost can &apos;t find any partitions ( drive )
+If you have a reply , thank you in advance
+Re : Moving NIS 2012 to NIS 2013
+Normally there should be no problem , Norton seems to be stable again .
+To update Norton :
+Open Norton &gt; Support &gt; Download the latest version .
+In case of a problem , the Passenger &apos;s tutorial will be the fastest and the most practical .
+Good day ,
+Apolyon
+Re-installing my Norton product .
+Hi ,
+I uninstalled my Norton product , before going to the after sales service in the store where I bought my laptop ( I thought I had to change it )
+Would you be so kind as to help me ?
+Thank you .
+Re : Blue screen caused by SYMEFA.SYS in WIN XP
+This problem does come from Norton .
+I have to restart in my XP sp3 in safe mode .
+Delete the files &quot; Symefa &quot; and Magic , after that no more problems .
+I then reinstall Norton and get an alert on the file SYMEFA.SYS and the blue screen .
+For professional reasons I can &apos;t work with a PC that goes wrong .
+I hope that this problem can be resolved because otherwise I have no other choice than to use the competition .
+Re : NIS stops during a scan .
+At the beginning I had both Windows Defender and Norton , and they tried to destroy one another !
+I got rid of Defender .
+Perhaps I should have done the opposite ...
+Re : Now I &apos;ve got another problem ! Firefox and ie ...
+Hi ,
+I don &apos;t think I have Live Update ... in any case I can &apos;t find it on my PC .
+Does anyone know whether this is normal ?
+Re : Blue screen with Norton 360 on Vista
+I suggest you send me a private message with your email address , phone number and your availability ( between 9am and 8pm ) .
+I will report this information to Norton support and ask them to look into your case and contact you .
+Thank you and good day ,
+Re : Norton 360 and Windows 8 .
+Hi 1949,
+I can confirm that when N360 indicates everything &apos;s fine , there is no problem .
+The issue is not solved yet but it seems to come from Microsoft because other security software has the same problem .
+Find out more in this discussion .
+Thank you and good evening ,
+Hi melmelbrubru ,
+Have you tried reinstalling it with NRT as laid out in this message ?
+( A little aside , I like the nickname melmelbrubru , it reminds me of childhood word games )
+Re : Identity Safe ( 2012 &gt; 2013 ) Local with IE 8 - IE 9
+Still with XP - IE 8
+I have removed my logins one by one , closed IE , emptied the cache ( IE is configured to remove all ) , imported the .DAT file &gt; no autofill , also tested on another site .
+Re : Problems with Norton Internet Security .
+Good evening ,
+Has the operation fixed the problem ?
+Good evening ,
+Apolyon
+Which choice of protection ?
+Hi ,
+I have Norton Internet Sécurity 2013 , with Windows XP and Firefox .
+Should I &quot; turn on &quot; The Windows firewall and Antivirus ?
+Thank you for your advice .
+Sergiolatino
+Re : Network map
+To find the network map on NIS 2013 :
+Main page of the NIS interface &gt; &gt; Advanced &gt; &gt; Network Security Map .
+Then quickly configure it by following the prompts ...
+Sincerely
+Guillaume1024
+Unable to get a connection .
+Hi , I have a PC running Vista and obviously Norton blocks the connection of the box . How can I remove norton completely from the PC ( I have no access to internet so no link to follow ) .Help !
+Filtering web browsing on an unfiltered account .
+Yes absolutely , the parent &apos;s accounts are not filtered .
+In desperation I uninstalled Norton Family pending a version that will fix this problem .
+Re : What choice of protection ?
+Hi ,
+It is the Security Center included in Windows XP .
+To date , It only shows :
+The firewall is Norton Security ( not Windows ) - Ok , it &apos;s my choice .
+The Anti Virus : ditto
+Updates : Disabled ( it &apos;s my choice , hence my question , whether to block other updates or not , e.g Firefox ) .
+Thank you .
+Sm
+Launch problem with Internet security 2012.5.6.10 on windows 7 : Urgent
+Hi ,
+Since yesterday I am having big problems to connect to Google Chrome , each time it shows the warning :
+Then I can &apos;t launch Norton antivirus , it show this :
+Please help me find a solution , I do not know what to do on my computer .
+Re : Online backup centre unreachable .
+Hi ,
+Precisely , it &apos;s because this doesn &apos;t work on the tab or the Norton interface assistant , that I &apos;m asking for your help .
+Re : 22find , real menace or brainwashing ? Malware , virus , spyware ?
+How do I delete it ?
+Good evening , thank you for getting back to me so quickly , I &apos;ll install this programme and send you a txt file with information about my PC as requested , many thanks in advance .
+Re : Installation problem Norton 360 multi-device .
+At least Pack SP1 needs to be installed .
+Normally you can &apos;t get it through Windows Update , see here , follow this :
+Vista Pack SP1 see here at Method 3 .
+Don &apos;t hesitate to install the Pack SP 2 after .
+I am downloading it now .
+It takes a bit of time .
+I get back to say if it works or not .
+Re : Unable to open Norton Internet Security
+Hi ,
+Error 8504,104 you will have to uninstall and reinstall .
+Is your version 2012 or 2013 ?
+Do you use Identity Safe ?
+If you want to install the 2012 version follow this thread .
+Do what is explained in the first link ( v2012 ) except that you download NIS 2013 .
+Re : NIS and Windows 8
+Hi Jean-Pierre ,
+Your message is duplicated here and here .
+I will remove the second .
+You should not ask the same question on several threads so it &apos;s easier for the community to keep track of it .
+Thank you and good day ,
+Re : Ghost and Windows 8
+It is unclear as we don &apos;t have any public information about it yet .
+The communication will be made as soon as possible .
+I am sorry for the inconvenience .
+Good evening ,
+Re : Norton update ; loss of Internet connection .
+Good evening ,
+What Norton product do you have exactly ?
+Right-click on the Norton icon in the bottom right of the Windows taskbar and disable the intelligent firewall .
+Do you still have the problem ?
+Re : Difficulties in accessing different Web sites .
+Good evening ,
+The problem you describe is very interesting because a scan should not be an operation that would cause this kind of situation .
+Does this happen with any browser ?
+Are the web pages completely blocked or only a small part ? ( You could send a screen shot ) .
+Thank you and good day ,
+Re : XP - Lost Norton icon in notification area
+Liliana ,
+I admit , I was too quick to reply .
+I &apos;ll see tomorrow afternoon after a reboot , you never know .
+Re : Norton LiveUpdate does not work ...
+Hi ,
+More info , what system ?
+What version N ° of NIS ?
+Norton interface &gt; Support &gt; About &gt; you have 20.x.x.x.
+Try &gt; Interface Norton &gt; Support &gt; technical assistance &gt; it will conduct a search for problems .
+For your information , about the subscription , if you have a 3 PC license and you &apos;ve got one remaining , you can activate it , the trial period doesn &apos;t give you extra days .
+Re : Netbook - internet security 2013
+OK , I thought a netbook was a small PC , mine has a 15 or 16 inch screen .
+Sorry , I am not very good at computers .
+If you can confirm that it is a netbook , I &apos;ll make the change , no problem .
+I will try to install the 2012 version .
+Where can I find this comprehensive reference you need ?
+Thank you very much for your help .
+Agathe
+Re : Netbook - internet security 2013
+Hi ,
+I can find 30 products CQ61 here , in the hope that you land on the right page .
+You are right about the differences between a Netbook which has less components and is smaller than a Notebook .
+Re : A big problem with norton antivirus 2013 on windows 8
+After 3rd reboots , 2 for Windows 8 Pro and 1 for NIS ; All is finally back in order , it seems to work ...
+See you at the next update , I shall begin by checking NIS first .
+Later
+Re : Norton LiveUpdate does not work ...
+I have the same problem as hell-Boy-95 , but I still have 688 days remaining on my subscription .
+I did a free diagnosis which found a problem , but didn &apos;t say what to do next !
+Hi ,
+It seems that there is a new problem , not only on Windows 8 : Some customers have had problems after a Windows update ( the nr .
+2792100 ) has stopped Norton working properly and sometimes even cuts the Internet connection .
+I &apos;m still waiting on information on how to fix it .
+Good day ,
+Purchased abroad .
+Hi ,
+I &apos;m going on holiday to the the US , and given the difference in the price of software I &apos;ll bring some back .
+Is there &quot; zoning &quot; for Norton keys , i.e. , when I return , I &apos;ll renew my subscription using the key from within Norton , any particular concerns ?
+Re : Norton LiveUpdate does not work ...
+Technical support the found nothing . The Norton scan has found things 4 times . What &apos;s the number for NIS ?
+Re : Norton Toolbar no longer wants to appear in IE9
+Identity safe should open from the Norton Home panel .
+But nothing happens on a website with login , the autofill doesn &apos;t work .
+Re : Norton message pop up
+Hi ,
+I am sorry for being late , I need to get a response from a colleague in Technical Support ...
+If you have tested the &quot; Silent Mode &quot; and just this doesn &apos;t work , I recommend you call the support .
+Keep us updated , this could help other clients .
+Thank you and good day ,
+Re : Norton Toolbar no longer wants to appear in IE9
+I &apos;m looking for it ...
+I don &apos;t want to make you uninstall and reinstall for nothing .
+Norton interface &gt; Settings &gt; Web &gt; left click Identity Safe &gt; on the right , can you see &quot; Enabled &quot; ?
+Re : I have a Problem with Norton internet security my new PC is down !
+Solie , Windows 7 is not the same .
+Defender in Windows 7 is not an antivirus .
+I hope Norton will fix things for you ...
+From time to time Norton reacts strangely ; Error 3048.3 !
+Hi ,
+From time to time Norton reacts strangely ; here &apos;s an example that shows this error , when I haven &apos;t done anything .
+Norton 360 premier version 20.2.1.22 .
+However , Norton is working properly .
+Re : How do I make Norton research my default search engine ?
+Hi Gdd _ du54,
+In the options , put the Ask page in as first option and your usual page second .
+Move the second tab into first place and each new tab will be the Ask page .
+It &apos;s just an operation when opening IE , I only found this one .
+For the Home page icon , you can choose from the drop-down Menu .
+Good evening ,
+In my case there are two problems with chrome , for the moment I have found two solutions , either uninstall the browser ( with IE Bonjour ) and the second is to uninstall and reinstall Norton ...
+Re : Access to a Norton account .
+Hi
+All this has was already done by a chat technician , he reinstalled it several times but nothing was fixed ; the only thing that got sorted out was the program that stopped the shut down didn &apos;t pop-up any more . A patch should be delivered soon .
+Hi ,
+I didn &apos;t purchased Norton Multi-Device on the Symantec site so I don &apos;t have a download link . Is there another way to do it , maybe with file connect ( but I don &apos;t have the serial number ) ?
+Thank you for your help .
+Sincerely
+Re : Norton 360 Multi device
+File Connect is a site that I found on Symantec , I purchased Norton 360 Multi-Device on a well-known online auction site and the seller gave me a website for the Download , norton.fr / digital &quot; I can &apos;t find it on google Google , I think I have been ripped off .
+I will tell you what happens .
+Sincerely
+Re : Problem with Samsung Galaxy S GT-I9000 .
+I can see that your message remains unanswered .
+Please see the following tips to help get a faster response : Advice on how to make better use of the forum .
+If in the meantime you have found the solution to this problem , please share it with us .
+This may help other customers !
+Good day ,
+David
+Re : Virus definition and spyware out of date .
+I assume that you have this , it &apos;s red because I have not updated it for 4 days .
+For you information , you can put the start menu in a toolbar and even create other folders .
+Re : Virus definition and spyware out of date
+I didn &apos;t think anymore about it .
+You can always carry it on .
+In your case , click on your support request .
+All the best !
+Re : No logged activity - No web blocking ( Norton Online Family )
+Norton Online Family worked before ...
+Kaspersky never showed that anything was blocked !
+Re : Why Ask as the search engine ? ?
+Ask = Problem site !
+You just have to look here !
+I also find it strange that it is used by antivirus publishers .
+Re : Timeout problem .
+Hi ,
+Could I ask you to check whether you have the same problems described by this client ?
+When something is blocked by Norton Family - what kind of message do you get ?
+And if you go back with the browser , is the block still doing nothing ?
+Thank you !
+Re : Norton 360 Multi device
+Hi chefo ,
+Thank you for your answer .
+I asked the question because the files are the same , I thought that it was perhaps not necessary to uninstall it but instead to just enter the key .
+And if it &apos;s necessary to install it on Android or something else , you could use the QR code .
+Assuming that Seolane has N360 Premier installed and not Standard .
+Good evening !
+Blue screen SYMEFA
+In the Scratch report it transpires that it &apos;s the SYMEFA.SYS file that is causing this bug .
+Has anyone already had this problem and how do I fix it ?
+Thank you in advance for your reply .
+Norton Internet Security \ Engine64 \ 20.2.1.22 \ uiStub.exe
+Hi ,
+The message &quot; C : \ Program Files ( x86 ) Norton Internet Security \ Engine64 \ 20.2.1.22 \ uistub.exe &quot; followed by &quot; unspecified error &quot; shows when I try to open or to use Norton Internet Security .
+What is the problem and how can I resolve it ?
+Thank you in advance .
+Sincerely .
+Good evening and thank you for the technical support .
+I &apos;m looking for the tutorials for Norton 360,
+The sequence followed by 3 screenshots are shown below .
+Norton general table , see screenshot 01 .
+Support
+Tutorials
+See screenshot 05
+I click on the highlighted link in red .
+Screen capture 07 appears , which is a commercial link .
+Good evening .
+Hi ,
+Tip : From the main page of N360 v6 tutorials , click on the tutorial you &apos;re interested in .
+For example , I clicked on Create a Vault :
+Then , on the page that opens , change the URL .
+Where it is marked &quot; US &quot; at the very beginning ....
+Put &quot; FR &quot; and you will have the Tutorial in French !
+Good day ,
+Hi
+I went back to the 2012 version and everything works properly again .
+The problem on the 2013 versions happens as soon as I close a session even if I return to the same session .
+Re : File NIS 20.2.0.19
+Hi misstigry ,
+After reading your answer I tried to remove the files but Norton blocks it , I will wait and see if the patch 20.3 will fix it .
+Thank you and have a great day
+Re : Norton tool bar
+Hi .
+If you click on it , it asks you if you want to enable it .
+Re : Norton tool bar
+Thank you , Guillaume .
+Yes , I have just thought , all the Norton features worked when I used Google Chrome , but not with IE 10 64 ...
+Error message 0x80045006,0 with NPE .
+Hi , My computer has been polluted with a cautionware that won &apos;t allow it to start . I downloaded the NBRT folder onto a USB key on another machine : It shows no detected risk . After I tried transferring Norton power eraser from the USB key . I had the error message showing as the title . Thanks for your ideas .
+Re : Norton family : Firewall problem
+Hi Domi71,
+We have tried several mobile devices and we don &apos;t get the problem here .
+Thank you and good day ,
+Re : Files / printer sharing between XP and windows7
+In fact , the problem persists , I have contacted Norton Support by live chat , And in the Advanced settings of NIS ( I have the latest version ) on XP , the correspondent gave all the private network access rights , which resolved the problem .
+Thank you for your help .
+Re : Norton toolbar with google chrome 25
+Hi ,
+Same problem , the norton toolbar is only randomly accessible in Chrome 25 ( the icon is present ) , Nonetheless , NIS is in the extensions , but the site rating icons in Google have disappeared as well .
+On my second laptop , Chrome 25 and NIS 2012 work properly .
+In anticipation of a solution .
+Re : Norton Internet Security 2012
+Hi to All
+Resolved this morning , the cybercrime card changed date to 25 / 02 / 2013 7 p.m.
+The 26 / 02 / 2013 at 6.45 p.m.
+So everything &apos;s fine .
+Please note that if you click on details of the cybercrime card , it shows a blank text box .
+&quot; This map shows recent cybercrime activity in the last 24 hours &quot;
+Thanks to you all and have good day .
+sincerly
+Re : Blocking images on a personal site .
+Good evening ,
+You said :
+How can I make sure that it &apos;s Norton that &apos;s the cause or not ?
+Simply because it works with IE , Norton would block the images on both .
+See here :
+Good evening Chefo ,
+Thank you for the rapid and knowledgable response which helped me fix the problem ( it wasn &apos;t really a proper question ! ) : The site was blocked by FF ( exceptions ) .
+Configuration problem for NIS 2013 .
+Hi , I have just joined the forum as I have a configuration problem after a HIS 2013 update . I have read all the messages but .. apart from here where I have seen &quot; new message &quot; .. I don &apos;t know how to use the forum .
+Can you help me please , thank you .
+marienuage
+Re : Norton 360 Multi device
+Hi chefo ,
+On the online store the 3 pc version is highlighted , but there is also a 5 PC version 5 which is available to buy ( in-store and online .
+Good day ,
+Re : Recovery of data backed up to hard disk with Norton 360 on a new PC .
+Norton 360 doesn &apos;t make disk images like other software .
+You should be able to choose which file you want to download / copy onto your current computer .
+If you have done online backups , you can download the files from : Norton Online Backup .
+Good day ,
+Re : My Norton internet security does not seem to work
+It seems my issue is resolved .
+I did a system restore at a later date .
+Norton needed to be amended , but everything works now .
+It is as if there had been a &apos; conflict &apos; with the last update from windows .
+Hi Minimo ,
+Happy that your problem is solved !
+Could you indicate it by choosing &quot; Accept as solution &quot; on your last message ?
+Thank you and good day ,
+David
+Re : File NIS 20.2.0.19
+Hi Kazou ,
+The second part of the patch was distributed this week , but the third and last part is still missing .
+No specific problem on Windows 8 with me .
+There was a time when all the parts of a patch followed after few days .
+Now they take 15 days to arrive .
+Misstigry
+360 Identity Safe and Skype connection and Norton toolbar
+Hi ,
+I &apos;m finding that when connecting to Skype , Identity Safe does not work for managing logins .
+You need to enter your ID manually .
+There is no Norton toolbar either .
+In short , there is no interaction between Norton and Skype at this level .
+If not , does anyone know if it &apos;s coming .
+Thank you in advance
+p.s. : W7 , IE9 , Norton 360 ( 20.2.1.22 )
+Max
+Camera not recognized .
+Hi ,
+My camera is no longer recognised by either of my PCs since I installed Norton :
+- 1 HP laptop ( with windows vista ) with Norton Antivirus
+- 1 Netbook HP ( with windows starter ) with Norton Internet Security
+Thank you in advance for your suggestions .
+Norton blocks outlook and all forms of download ?
+I uninstalled Norton and my Outlook worked then I reinstalled it and the problem came back , I can &apos;t send emails or download documents e.g. pdk etc .
+Re : Problem with LiveUpdate : Failed update of &quot; NIS engine &quot;
+Hi ,
+I have exactly the same problem .
+I think that it &apos;s certainly linked to the v.20.3.
+Lets wait and see in a few hours ...
+Re : Operating system support for trial version of Norton Online Backup .
+Sorry for the delay in answering !
+I asked to update the page in question .
+Thank you
+Good day ,
+Hi Liliana _ Gaspar
+Could you tell me if this latest version integrates compatibility with the anti-spam module for Outlook 2013 ?
+I am going to proceed with the update in a few hours .
+Sincerely ,
+Re : Belgian Subscription renewal in French .
+Hi euromad ,
+Thank you for your reply .
+We are analysing these cases to try and stop the problem from happening again .
+It would therefore be very useful to have examples of product serial numbers .
+Could you send me a private message with yours ?
+Thank you and good day
+Re : Problems win xp
+Hi .
+A little late : No worries for your Norton subscription .
+Go in your Norton Account ( www.mynortonaccount.com / ) once you &apos;ve fixed your computer problem .
+You can reinstall them then .
+Good luck with your PC ...
+Re : How to go from Norton 360 premier to Norton antivirus .
+Hi ,
+A Norton 360 key does not work for Norton antivirus .
+But if you have a Norton antivirus key , simply uninstall Norton 360 and then install Norton antivirus .
+Re : Patch 20.3.0.36 not received
+Updates suspended ... initially .
+So if the update doesn &apos;t work , don &apos;t worry , it will come in due course .
+Re : Patch 20.3.0.36 not received
+Hi chefo ,
+As Kasou mentioned in his message above , some of us may need to do a new installation , to benefit from the latest version : 20.3.0.36 .
+Personally this was my case .
+Furthermore , for your information . I do not usually write or respond without thinking : I re-read the post dedicated to this update before answering .
+Sincerely ,
+Re : Norton toolbar
+Apparently your Norton bar is enabled in &quot; Firefox &quot; ( orange box top left ) &gt; Complementary modules ) .
+However , have you verified that the toolbar is configured to be displayed under Firefox .
+To do that , go to &quot; Firefox ( orange box top left ) &gt; &gt; Options &quot;
+And check that Norton toolbar is ticked .
+Did it fix it your problem ?
+Sincerely
+Guillaume1024
+Re : Norton toolbar
+PS : I am surprised by the version number of your Norton Toolbar .
+What Norton product are you using ?
+What is your Operating System ?
+Re : Patch 20.3.0.36 not received
+Hi ,
+I &apos;d like to point out that I wasn &apos;t saying anything , my question was just to find out where you saw it , that &apos;s all .
+That is precisely why I asked this , because I think it is strange that they ask to uninstall a product for a patch .
+It was nothing have with you , or anyone else other , except Norton technicians .
+Re : NIS 2012 and norton toolbar on win7 and IE9 64-bit
+Thank you ....
+Everything works flawlessly now .... obviously
+Still on NIS2012 , waiting for a patch for error 8506.421
+Re : Small repeating problem with NIS
+Hi ,
+Could you confirm whether you have received the latest product update ?
+If so , do you still have the problem ?
+Thank you and good day ,
+Re : Automatic renewal ! ! !
+Hi matlemac ,
+Try on Norton Management :
+Tell us what happens !
+Good day ,
+Re : Repeating problem with NIS .
+Jean-Pierre , Defender works on W8 ( apparently ) ok ... for the meantime .
+( I have Malwarebytes Pro as well , to monitor everything ) .
+As soon as NIS 2013 has no more problems , I will come back .
+Re : Windows Live Mail freeze and general slowdown .
+I had Outlook as an email program , but when I updated Internet Explorer a few months ago , Outlook was replaced by Windows Live Mail .
+Re : NIS 2013 and task manager .
+Hi JeanDeNice
+I tested the task manager with W7 and NIS 2013 on a virtual machine without any problem .
+I also installed Glary Utilities and launched the manager without problem .
+I can also use Task Manager on other machines with other configurations .
+Do you have access to other computers with Windows 7 and NIS 2013 to make a comparison ?
+Thank you and good day ,
+Re : IE6 and Norton Internet Security
+Good evening .
+I had IE9 ... no problem .
+Otherwise , we have computers at the municipal library for example ... perhaps you too ?
+Or perhaps friends , work ?
+Otherwise there is certainly a phone number for Norton somewhere ...
+Re : IE6 and Norton Internet Security
+You are taking enormous security risks using a terrible old outdated browser .
+There is no point in having Norton on your machine as it &apos;s got more holes that swiss cheese .
+Do your windows updates and the browser as well !
+Should I have the 2012 ?
+Would it help ?
+Re : IE6 and Norton Internet Security
+Apparently my link to the form does not work all the time .
+Otherwise I found a phone number to reach Customer Service : 01.73.01.84.99
+Monday - Thursday , 9am - 8pm Friday , 9.30 a.m. - 8pm
+View local phone numbers
+Or the chat : Www.norton.com / chat
+For my part , I don &apos;t have any problems with the Windows task manager , but I managed to reproduce the problem with Glary Utilities .
+I will open case to ask for the matter to be investigated .
+Thank you and good day ,
+Re : Web filtering on an unfiltered account .
+Hi baghee ,
+I have tested Norton Family on Windows 8 with different user accounts and I do not have this problem .
+However Windows 8 also has a parental control system :
+Can you check the Windows account configurations ?
+Also check for any of the children &apos;s accounts , which Windows account is monitored for each PC :
+Re : IE6 and Norton Internet Security
+Hi delph ,
+It &apos;s funny how getting onto the site and subscribing works okay but for the opt-out things are a lot more complicated .
+Complicated ( a strategy to retain it &apos;s clientele by Norton ? )
+I don &apos;t dare believe it ... )
+Thank you for the tips , I &apos;ll try and get most out of them .
+Where did you find the phone number ?
+Re : IE6 and Norton Internet Security
+Good evening .
+When the form is not available , therefore outside chat hours .
+Bottom Right , they give local numbers .
+Make the best of it , nautila ! !
+Re : License Renewal 1 PC
+Hi .
+I don &apos;t think so , they only offer 3 PCs .
+But sometime you might find it cheaper in the shops .
+I use the automatic renewal because it is easier ... but as far as price is concerned , it &apos;s not the same .
+Transition from NIS to Norton 360 ( remaining subscription days .. ! )
+I would like to change from NIS to Norton 360 .
+With NIS , I still have 110 days of the subscription remaining ..... The question is : Will these 110 days be lost ?
+Good day ..... Sincerely .
+Re : Internet problem
+Can you disable it ( partially or totally ) ... to pinpoint the problem ?
+Otherwise you should uninstall it ... and start again .
+Very strange ...
+Re : Problem with Norton toolbar and Identity Safe .
+Hi ,
+Then I go onto settings but I don &apos;t have the Web tab I have this :
+I went into Identity protection , but I can &apos;t see anything that looks like what you &apos;re saying .
+Thank you
+CDT
+Re : Problem with norton toolbar and Identity Safe
+Good evening ,
+Damn , I had forgotten that you had N360 and not NIS ..
+Try and go into &quot; my Network &quot; and then &quot; identity protection &quot; , there should be an equivalent !
+On the other hand , on chrome , does the Norton logo appear like I said on my other message .
+Apolyon
+Re : Unresolved support problem .
+Good evening ,
+But if the virus has been blocked , your machine is secure !
+I would advise you to wait , perhaps an update will resolve the issue .
+In the meantime , you could try a launching a live-update manually !
+Thank you
+Apolyon
+I &apos;ve only got that on the network , Lol .
+Otherwise , on chrome I don &apos;t have the logo because as I said this morning the toolbar has disappeared and the icon with it .
+Thank you for your help
+CDT
+Satisfaction with NORTON by Symantec 360
+Hi , I &apos;ll put in my two penny worth , Norton is improving over the years , this means that we can rely on quality products , It &apos;s a paid product but the results are evident , and as we also have a community forum dedicated to Norton by Symantec , we &apos;re not short of opportunities for additional help .
+Djackasus2013
+Re : Parasitical green forms in preview , and sometimes on the actual pages .
+Thank you Guillaume1024 !
+Purchase of Symantec System Recovery 2013 .
+If I understand correctly , we can opt for a 1 , 2 or 3 year maintenance package. either in essential or basic mode .
+What I have a little difficulty understanding , is when we buy the software in question do we becomes the owner and we also have 1 , 2 or 3 years maintenance OR when we get to the end of the subscription we simply cannot use the software unless we pay for more time .
+Thank you for clarifying this point .
+And you don &apos;t want to another scan other than Norton ?
+But the others believe that this may not be worth it ...
+Re : Scan , files skipped
+Hi ,
+Get more information on the results of scans by clicking the link .
+Sincerely
+Guillaume1024
+Re : Logins
+Hi ,
+To try to be more precise : When I open a page , normally if there is a login and a password , the boxes are coloured orange and the information is automatically entered when set to &quot; normal &quot; :
+Nothing else to add , except that these &quot; disappearances &quot; recur each time there is an update , to Firefox in particular .
+Thank you and have a good day .
+Re : The order of messages
+Messages appear in ascending order : The oldest first .
+It is like that on all the forums , it &apos;s the most practical system !
+If you have any other questions do not hesitate to ask , and read the tutorials available on the forum !
+Good evening ,
+Apo&apos;
+Edit : You were talking about topics and not about the messages in them !
+Read Guillaume &apos;s response for this !
+Error Internet connection sharing Android Mobile USB .
+When I connect my mobile Android device running version 4.1.2 Jelly Bean ( USB ) to my laptop Windows 7 , I &apos;d like to be able to connect to the internet from my mobile device .
+I systematically get an error ( see below ) .
+Is there any procedure to follow with Norton Internet Security to allow Internet Connection Sharing ?
+Re : Norton Virus Removal Assurance
+Hi ,
+There is a service to install Norton available on the site .
+&lt; URL &gt;
+It is rather expensive for what it is , but good ...
+Good day ,
+Apolyon !
+Hi ,
+We have an case open with Microsoft to help resolve the problem .
+We unfortunately have no control over the solution in this case , as it doesn &apos;t come from Norton .
+But as long as Norton is showing green it &apos;s working 100 % .
+It is an error from Windows 8 Security Center .
+Thank you and good day ,
+Re : Firefox 19 and Norton ToolBar
+Hi Nel ,
+Could you execute LiveUpdates manually until it shows that there are no more updates available and then retest ?
+Re : Firefox 19 and Norton Tool Bar
+Hi Nel ,
+Thank you for your reply .
+I see that in the meantime you found a solution .
+I had asked to retest today because a small patch was distributed via LiveUpdate after your last post and I wanted to see how effective it was .
+Thank you in any case and all the best !
+Help following the purchase of a new key , accounts not merged .
+Good evening ,
+Following has purchase a of a new licence key , it has not added the remaining days from the old key and also I &apos;ve found that I &apos;ve got one license less , I don &apos;t know what happened to this connection because when I log into the account to see the peripherals only the old key shows and not the new .
+Re : NIS Problem the 20 / 03 / 2013
+&apos;Day
+Still problems from this morning with liveupdate :
+There is a problem with the norton power eraser ( NPE ) , update &quot; installation failed &quot; and then it doesn &apos;t update , there have been several corrections since this morning ( AutoFix 3048 , ... )
+Apart from that , the other updates work well , apparently .
+Comparison 2013 - &quot; Que Choisir &quot;
+Hi all ,
+The consumer magazine &quot; Que Choisir &quot; has brought its security solutions 2013 comparison test up to date .
+If , as usual , test protocols can be considered a bit doubtful , it remains to be said that the results should be disturbing for Norton , not to say very average .
+Hi chefo ,
+I shall see with the support .
+I wonder if the interface should have offered to &quot; renew &quot; instead of buying a key .
+Are you on Norton Management or your Norton Account ?
+You tried to renew the existing key , yes ?
+If there are other clients that have already encountered this problem , can I ask you to share your views ! ...
+Good day ,
+Re : Information about the recent Cyber attack in South Korea .
+A brief article from today on the Clubic site :
+&lt; URL &gt;
+Nothing new , watch this space !
+Good reading .
+Misstigry
+Re : Norton Zone for iPhone in French
+Damn it , I am disappointed !
+Sorry for the false information .
+I saw on the iTunes site that the application was available in a French version , it is obviously a typo ! ...
+Guillaume1024
+Update to live Update .
+Hi ,
+I have just renewed my subscription and it worked well for a few days . But for the last three days live update has stopped downloading updates . I have tried doing manual updates , technical support , uninstalling and nothing works , can anyone help me please .
+Thank you in advance
+Technical Support Sysmantec System Recovery
+Hi all ,
+I &apos;ll leave you the link to the knowledge base for Symantec Support System Recovery .
+And here &apos;s the link to the SSR official forum support ( in English only ) .
+Re : Help for a novice - problem with Norton Ghost .
+Hi manege ,
+I can see that your message hasn &apos;t been answered yet .
+Do you still have the problem ?
+Please see the following tips to help get a faster response : Advice on how to make better use of the forum .
+The subject is of course still open to the community if you have any answers !
+Good day ,
+David
+Yes , I &apos;ve still got the problem . I use the latest version of Norton internet security and I uninstalled and reinstalled 2 days ago ( 20.3.0.36 ) the operating system is windows 7 .
+I hope that answered your question , as you can see I am not a specialist .
+Thank you
+Re : Changing the mail address configured in NIS .
+Hi ,
+Have you tried changing your personal information in Norton Management ?
+Verify that the change has synchronised with your Norton Account information , in the section &quot; Profile &quot; .
+Good day ,
+Re : Muddled up Updates .
+From the outset I have done what you suggest : reboot , updates , reboot after update ... but nothing changes .
+Thank you for your help
+H78ps
+Good evening ,
+Good I talked with the Livechat and seeing that I still had 102 days to go on my old licence , the person gave me 120 days on the new one .
+Nothing to say apart from thank you Norton support .
+How do I remove products from the Norton account .
+Good evening ,
+See my screenshot to clarify things .
+Thank you
+Re : Norton Remove and reinstall does not work properly
+Thank you for your reply polo77 .
+I know the procedure you are suggestioning .
+But in this case I wanted to follow the &quot; new &quot; uninstall / reinstall procedure .
+To avoid the vagaries of the product validation and to draw the attention of Norton engineers to possibly making the NRnR.exe tool better .
+Re : Norton Zone for iPhone in French
+Hi ,
+Sorry for the false start !
+And thank you for having moved it on .
+Good day ,
+Re : Symantec Recovery Disk with Symantec System Recovery ?
+Hi Cedric06,
+I can see that your message still remains unanswered .
+Do you still have the problem ?
+I &apos;ll leave you to consult the official sources for Symantec System Recovery listed on this message :
+Symantec Technical Support System Recovery
+David
+Re : Performance Alert generic host for win 32
+Hi fanatic ,
+Has this happened again ?
+The message remains open to the community if you have any answers !
+Thank you ,
+David
+AURELIE.NET site
+Thank you , David .
+Hi ,
+I am the developer and the site owner of &lt; URL &gt; and NORTON tells me that it is not safe and blocks access , so it must do the same for my customers .
+I can &apos;t see how to put my site into the valid sites .
+Re : Renewal does not work .
+Hi leyeti77,
+I can see that your message still remains unanswered .
+Do you still have the same problem .
+Please see the following tips to help get a faster response : Advice on how to make better use of the forum .
+Good day ,
+David
+Re : Try our spelling and grammar proof-reader ( beta ) !
+Good evening ,
+The project is a good initiative !
+However , is it normal that it does not work in the section NAV / NIS / N360 ?
+Good day ,
+Apo&apos;
+Cannot connect on-line with Identify safe .
+But there is no connection problem on my side , could it be the NORTON servers ?
+How do I get back to local mode in this case ?
+Thank you for the helping hand
+Re : Problem NIS the 20 / 03 / 2013
+New problem with the launch of Quick Scan !
+Norton is becoming a real pain , you have to ask if we are really protected !
+Re : Problem NIS the 20 / 03 / 2013
+Cheers ,
+I have no problem to initiate a scan , no problems at all in fact , for the moment everything &apos;s fine
+I had a small window in the bottom right of office that appeared with security info ( Green frame + ok + blahblah .... etc )
+Since the update to v.20.3 , it &apos;s gone ....... ( ? ? ? )
+Happy Easter to all .... and cool down on the chocolate .... haha .
+Re : My Norton 360 has stopped responding both manually and automatically .
+Good evening
+To find which version you have , on the Norton Interface at the top right , click support , then a window opens , go down until &quot; about &quot;
+Hi mechakou ,
+If you are going to be contacted by a more qualified technician , you are in good hands !
+This also means that the level 1 technicians have already checked the basic things ...
+Do you have an idea of what they have done ?
+Good day ,
+Re : N360 and screen saver Windows XP SP3
+There is no change , the default is still present .
+Sitting in front of the screen waiting for it to change , I have just enough time to read part of message : &quot; Norton has done &quot; ... , then the message clears .
+Backup
+I backup using Norton 360 on a removable HD .
+Unfortunately , this HD has died .
+Thank you for your help
+Re : Impossible to set up Identity Safe .
+Hi
+I am having the same problem as above since the renewing Norton 360 premier , I &apos;ve haven &apos;t got the identity safe taskbar any more .
+My configuration on w7 64 .
+It &apos;s no longer in the additional modules for IE and Google .
+I have had Norton for over 5 years and never had this kind of problem before .
+If you have any information , please send it on .
+Thank you sincerely
+Hi Gedeon48,
+Can you check if you have the latest version of your Norton security product ( Version 20.3.0.36 ) ?
+Here is a screenshot attached , to help you check .
+1 ° - Open your Norton product .
+2 ° - Click &quot; Support &quot;
+3 ° - Place your mouse on the line : &quot; About .. &quot;
+Sincerely ,
+Re : A virtual keyboard with Norton products .
+Hi chefo ,
+Either the software is listed as malicious in our database and blocked by the antivirus and antispyware technology or its actions are detected by SONAR which blocks it .
+And for logins on Internet there has Identity Safe .
+Good day ,
+Re : Samsung SSD &amp; 512Go 256Go unusable with Norton back-up .
+Hi CHATENAYJMC ,
+Samsung provides &quot; User data migration tools &quot; , documentation is available HERE and the software it is on this page .
+However I &apos;ll let you ask about the specificity of the SSD and options to enable / disable in the bios and OS with this hardware .
+If you have a concerns do not hesitate to contact us .
+Re : Blocked admin account
+I think that Norton is part of the problem , because concerning the address you listed , I have tried to launch the address you marked and it goes nowhere with either Google or IE .
+Re : Norton IS 2013 unauthorized Access taskmgr.exe ?
+Yes , it &apos;s exactly the same thing .
+So we don &apos;t know what it is then .
+But it is linked to a Norton bug .
+Is there something to be done ? Reinstall maybe ( Norton or even the PC ) ? Or is it nothing serious and we can wait ?
+Re : Fault corrected successfully by AutoFix .
+Hi ,
+I have also seen this problem when updating Firefox 20 .
+I find ( this is my personal opinion ) that Norton has a huge number of problems with the 2013 version , in fact the v20.x , I hope that the next version ( 21.x ) will not have so many problems .
+Comparison AV-TEST February 2013 on Windows 8
+Hi all ,
+Today , here is the first series of independent tests on Windows 8 carried out by AV-TEST .
+Norton Internet Security scored 15.5 out of 18 .
+Note that Windows Defender scored 11 out of 18 .
+I &apos;ll leave you to look at the full tests on the AV-Test website page .
+Misstigry
+Re : Subscribers to norton mobile security with Bouygues telecom do not receive the new versions .
+Firewall
+I cannot access ADSL tv .
+I believe that the difficulty is with the firewall .
+My windows firewall is disabled to take advantage of the Norton protection , but I do not know how to make an exception for ADSL TV access .
+Thanks in advance to anyone who can help me fix this problem .
+Re : NIS 2013 - Toolbar - Problems on XP
+I &apos;ve think I &apos;ve done it . I clicked on the Norton window and there was an option to deactivate it . The best part is that I can still use identity safe .
+Good evening dear lady .
+Re : Norton warning .
+I have done some tests .
+On a machine with Norton installed , I managed to visit your site without it being blocked .
+Could you give us some more information about the block that you experienced on your side ?
+Re : I cannot get Norton to work on my laptop
+Hi studer22,
+I think you had a problem while posting your topic , because it &apos;s only showing the title of your message .
+So that this community can help you , I &apos;ll ask you to complete your current message .
+Thank you in advance .
+Re : Norton 360 and W8
+Can you check if you have the latest version of Norton 360 ( version 20.3.0.36 )
+Do this to check the version of your product :
+Open Norton 360
+Click &quot; Support &quot;
+Click &quot; About ... &quot;
+If your product is not up to date , click LiveUpdate to apply the latest patches .
+Sincerely ,
